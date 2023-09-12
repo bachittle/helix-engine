@@ -1,3 +1,4 @@
+# lwgle overview
 
 ## libraries used
 - glfw for window and input management
@@ -6,5 +7,4 @@
 - tinyobjloader for obj file loading
 
 ## examples attempted
-
-[[learn opengl]]
+[learn opengl](learn_opengl.md)
