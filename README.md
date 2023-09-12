@@ -1,5 +1,5 @@
 # lwgle
-Yet another lightweight OpenGL engine
+(yet another) lightweight OpenGL engine
 
 Used for practice, to help me understand OpenGL and how to use it effectively (write good abstractions).
 
