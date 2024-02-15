@@ -1,8 +1,5 @@
-# lwgle
-(yet another) lightweight OpenGL engine
+# Helix Engine
 
-Used for practice, to help me understand OpenGL and how to use it effectively (write good abstractions).
-
-This library contains a thin abstraction layer to OpenGL and commonly used code in 3D engines, such as cameras in a scene. 
+Refactor in progress...
 
 [read the docs](docs/README.md)
